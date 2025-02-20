@@ -1,8 +1,11 @@
-from sqlmodel import Field, SQLModel, Session, create_engine, select
-engine = create_engine("sqlite:///database.db")
+import os
 
+from sqlmodel import Field, SQLModel, Session, create_engine, select
+from dotenv import load_dotenv
+
+load_dotenv()
 # Use SQLite for development
-DATABASE_URL = "sqlite:///facebook_registration.db"
+DATABASE_URL = os.getenv("DATABASE_URL")
 engine = create_engine(DATABASE_URL, echo=True)
 
 def get_session():
