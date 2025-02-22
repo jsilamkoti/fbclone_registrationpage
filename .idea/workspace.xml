@@ -4,21 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20ceddb9-ea90-49ef-9b93-931d7f88a672" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/backend/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/components/register.js" afterDir="false" />
+    <list default="true" id="20ceddb9-ea90-49ef-9b93-931d7f88a672" name="Changes" comment="Modified main.py">
+      <change afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/components/RegistrationFrom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.env" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/db/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/db/db.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/schemas/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/register.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/schemas/user.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/user.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.env.local" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.env.local" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/src/app/(auth)/register/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/src/components/register.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/app/RegistrationModule.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,9 +91,20 @@
       <option name="presentableId" value="Default" />
       <updated>1739848859344</updated>
     </task>
+    <task id="LOCAL-00001" summary="Modified main.py">
+      <option name="closed" value="true" />
+      <created>1740081779143</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740081779143</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Modified main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified main.py" />
   </component>
 </project>
