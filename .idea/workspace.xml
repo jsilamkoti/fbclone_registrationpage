@@ -4,16 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20ceddb9-ea90-49ef-9b93-931d7f88a672" name="Changes" comment="Unfinished Page, room for improvements!">
+    <list default="true" id="20ceddb9-ea90-49ef-9b93-931d7f88a672" name="Changes" comment="Improved! added dark and light mode">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/schemas/register.py" beforeDir="false" afterPath="$PROJECT_DIR$/backend/schemas/register.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/app-build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/app-build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/7.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/7.pack.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/8.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/8.pack.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/9.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/client-development/9.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/7.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/7.pack.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/8.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/8.pack.gz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/9.pack.gz" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/cache/webpack/server-development/9.pack.gz" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/app-paths-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/app-paths-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/webpack-runtime.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/server/webpack-runtime.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/webpack.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/chunks/webpack.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/css/app/layout.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/css/app/layout.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/8aadeaa5c774ad94.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/app/layout.e78fde4e4f5b3e32.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/app/layout.f11c6a8362d605ec.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/app/layout.f44d8d2c70d87e9d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/app/page.f11c6a8362d605ec.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/e78fde4e4f5b3e32.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/f11c6a8362d605ec.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/f44d8d2c70d87e9d.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/f6bef2a7fe0931ed.webpack.hot-update.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/webpack.8aadeaa5c774ad94.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/webpack.e78fde4e4f5b3e32.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/webpack.f11c6a8362d605ec.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/webpack.f44d8d2c70d87e9d.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/static/webpack/webpack.f6bef2a7fe0931ed.hot-update.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/.next/trace" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/.next/trace" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/facebook-clone/src/components/RegistrationForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/facebook-clone/src/components/RegistrationForm.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -119,14 +141,40 @@
       <option name="project" value="LOCAL" />
       <updated>1740205341338</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Unfinished Page, room for improvements!">
+      <option name="closed" value="true" />
+      <created>1740206480617</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1740206480617</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Improved! added dark and light mode">
+      <option name="closed" value="true" />
+      <created>1740206615052</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740206615052</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Improved! added dark and light mode">
+      <option name="closed" value="true" />
+      <created>1740206642430</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740206642430</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Modified main.py" />
     <MESSAGE value="Modified main.py +1" />
+    <MESSAGE value="Improved" />
     <MESSAGE value="Unfinished Page, room for improvements!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Unfinished Page, room for improvements!" />
+    <MESSAGE value="Improved! added dark and light mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improved! added dark and light mode" />
   </component>
 </project>

@@ -15,6 +15,7 @@ register_router = APIRouter()
 def register_user(user: UserCreate):
     # Validate age
     try:
+        print(user)
         birth_date = date(user.birthYear, user.birthMonth, user.birthDay)
         today = date.today()
         age = today.year - birth_date.year - ((today.month, today.day) < (birth_date.month, birth_date.day))
@@ -43,6 +44,7 @@ def register_user(user: UserCreate):
             birth_year=user.birthYear,
             gender=user.gender
         )
+    print(db_user.first_name)
     with Session(engine) as session:
         try:
             session.add(db_user)
